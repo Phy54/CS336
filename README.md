@@ -1,4 +1,4 @@
- # <p align="center">CS114.O21 - Máy Học</p>
+ # <p align="center">CS336.P11 - Truy vấn thông tin đa phương tiện</p>
 
 
 <p align="center">
